@@ -1,2 +1,4 @@
 # GrowZbuilderV0.5
-Growtopia save.dat builder GrowZBuilder, it is not made by me. Full credits go to Casey. I found binded version on Youtube so decompiled and fixed it.
+Growtopia save.dat builder GrowZBuilder.
+
+This is NOT made by me. Full credits go to the original creator Casey. I found this binded version on Youtube, so decided to decompile and fix it.
